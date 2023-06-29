@@ -1,2 +1,2 @@
 # Measure-and-classify-ECG-signal-via-IOT-and-deep-neural-networks-
-This project talk about how to build a system to measure and classify ecg signal. The main code language is python and C. Sensor is used in this system is AD8232, connect to arduino Uno, Raspberry Pi4 and HDMI screen.
+This project talks about how to build a system to measure and classify ECG signals. The main code language is Python and C. Sensor used in this system is AD8232, connected to Arduino Uno, Raspberry Pi4, and HDMI screen.
